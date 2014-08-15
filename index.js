@@ -1,6 +1,5 @@
 var rrmusic = require('./rrmusic');
 var http = require('http');
-var jquery = require('jquery');
 
 var songs = [
 	{ title: 'Killed Ya',

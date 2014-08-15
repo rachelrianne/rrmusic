@@ -1,0 +1,19 @@
+{
+  "name": "rrmusic",
+  "version": "0.0.0",
+  "description": "A simple module to create SoundCloud embeds, only requiring an ID number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rachelrianne/rrmusic.git"
+  },
+  "author": "Rachel Bain <rachel@rachelrianne.com> (http://rachelrianne.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelrianne/rrmusic/issues"
+  },
+  "homepage": "https://github.com/rachelrianne/rrmusic"
+}
